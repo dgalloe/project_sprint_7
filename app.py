@@ -19,7 +19,7 @@ if build_histogram:
     st.plotly_chart(fig, use_container_width=True)
 
 
-scatter_header = st.header('Distribución por kilometraje')
+scatter_header = st.header('Relación Precio y kilometraje')
 #scatter_button = st.button('Construir un gráfico de disperción') # crear un botón
 build_scatter = st.checkbox('Construir un gráfico de disperción')    
 

@@ -5,10 +5,10 @@ This is the repository for the Sprint 7 project
 
 Aplicación web para visualizar y analizar datos de vehículos usados, incluyendo:
 - Gráficos interactivos con Plotly.
-- Filtros por precio y kilometraje.
+- Relación por precio y kilometraje.
 
 ## Funcionalidades
-- **Histograma**: Disstribución kilometraje.
+- **Histograma**: Distribución kilometraje.
 - **Gráfico de dispersión**: Relación precio vs. kilometraje.
 
 ## Tecnologías
